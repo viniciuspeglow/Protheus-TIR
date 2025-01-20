@@ -1,0 +1,12 @@
+{
+    "Url": "http://localhost:4071/WEBAPP",
+    "Browser": "Firefox",
+    "Environment": "EXCLUSIVO",
+    "Language": "pt-br",
+    "User": "ADMIN",
+    "Password": "123456",
+    "Headless": false,
+    "POUILogin":true,
+    "SkipEnvironment": true,
+    "LogInfoConfig": true
+    }
